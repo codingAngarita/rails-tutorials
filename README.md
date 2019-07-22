@@ -2,7 +2,7 @@
 
 This repo follows the [Ruby on Rails tutorial](https://www.railstutorial.org).
 
-####[Live version]()
+### [Live version]()
 
 ### Author:
 - [@CodingAngarita](https://github.com/codingAngarita)
